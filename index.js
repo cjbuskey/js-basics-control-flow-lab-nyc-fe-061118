@@ -11,4 +11,6 @@ function scuberGreetingForFeet(ride) {
   }
 }
 
-function
+function ternaryCheckCity(city) {
+  
+}
