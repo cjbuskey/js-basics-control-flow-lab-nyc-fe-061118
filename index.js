@@ -22,10 +22,10 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmFromTip(tip) {
   switch (tip) {
-    case tip >= 5:
+    case 'generous':
       return "Thank you so much."
       break;
-    case tip >= 0 && tip < 5:  
+    case 'tip >= 0 && tip < 5':  
       return "Thank you."
       break;
     default:
